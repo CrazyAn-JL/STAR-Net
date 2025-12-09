@@ -1,1 +1,1 @@
-Low-Light Image Enhancement via Dual-Domain Joint Optimization and Kolmogorov–Arnold Networks
+DAWN: A Dual-Domain Kolmogorov-Arnold Network for Efficient Low-Light Image Enhancement
