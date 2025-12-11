@@ -1,6 +1,8 @@
 Note: This is the official implementation of the manuscript Dual-Domain Synergy: Enhancing Low-Light Images with Kolmogorov-Arnold Networks submitted to The Visual Computer.
 
-##Weights
+![Fig 1]()
+
+## Weights
 
 All the weights that we trained on different datasets is available at [[Baidu Pan](https://pan.baidu.com/s/1Zk1JEZDWc8AI-F4djaPAPQ)] (code: `CrAn`).
 
