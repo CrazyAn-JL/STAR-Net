@@ -1,6 +1,6 @@
 Note: This is the official implementation of the manuscript Dual-Domain Synergy: Enhancing Low-Light Images with Kolmogorov-Arnold Networks submitted to The Visual Computer.
 
-![Fig 1]()
+![Fig 1](https://github.com/CrazyAn-JL/DAWN/blob/main/DAWN.png)
 
 ## Weights
 
