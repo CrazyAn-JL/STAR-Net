@@ -28,7 +28,7 @@ python train.py
 ```
 
 ## 4. Testing
-You can choose the dataset you'd like me to test with and simply enter the corresponding command, for example --lol、--lol_v2_real, etc.
+You can select the dataset you want to test and simply enter the corresponding command, for example: --lol, --lol_v2_real, etc.
 ```bash
 python eval.py --lol
 ```
