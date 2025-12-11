@@ -29,6 +29,19 @@ python train.py
 
 ## 4. Testing
 You can select the dataset you want to test and simply enter the corresponding command, for example: --lol, --lol_v2_real, etc.
+
 ```bash
 python eval.py --lol
+```
+
+Evaluation metrics
+
+```bash
+python measure.py --lol
+```
+
+Evaluation no-reference metrics
+
+```bash
+python measure_no_re.py --lol
 ```
