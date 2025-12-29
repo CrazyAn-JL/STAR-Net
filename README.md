@@ -2,7 +2,7 @@
 
 This is the official implementation of the manuscript Global Structure Guidance and Adaptive Feature Recalibration Network for Low-Light Image Enhancement.
 
-![Fig 1](https://github.com/CrazyAn-JL/DAWN/blob/main/DAWN.png)
+![Fig 1](https://github.com/CrazyAn-JL/DAWN/blob/main/STAR-Net.png)
 
 ## Weights
 
